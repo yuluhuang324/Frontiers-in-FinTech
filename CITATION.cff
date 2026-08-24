@@ -1,0 +1,41 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Frontiers in FinTech: Multimodal Foundation Models for Financial Reporting and Decision Science"
+authors:
+  - given-names: Yulu
+    family-names: Huang
+    affiliation: "School of Accounting, Jiangxi University of Finance and Economics; Meituan"
+  - given-names: Niannian
+    family-names: Yu
+    affiliation: "School of Accounting, Jiangxi University of Finance and Economics"
+  - given-names: Yaxin
+    family-names: Yang
+    affiliation: "School of Accounting, Jiangxi University of Finance and Economics"
+  - given-names: Yong
+    family-names: Huang
+    email: yonghuang18@alumni.hust.edu.cn
+    affiliation: "School of Electronic Information and Communications, Huazhong University of Science and Technology; Meituan"
+keywords:
+  - Multimodal Large Language Model
+  - Accounting Information Systems
+  - Domain-Adaptive Training
+  - Intelligent Financial Analysis
+  - Vision-Language Models
+license: CC-BY-4.0
+license-url: "https://creativecommons.org/licenses/by/4.0/"
+type: article
+preferred-citation:
+  type: article
+  title: "Frontiers in FinTech: Multimodal Foundation Models for Financial Reporting and Decision Science"
+  authors:
+    - given-names: Yulu
+      family-names: Huang
+    - given-names: Niannian
+      family-names: Yu
+    - given-names: Yaxin
+      family-names: Yang
+    - given-names: Yong
+      family-names: Huang
+  year: 2026
+  notes: "Manuscript, AAA AIS-SET 2027 -- JISC Track"
+url: "https://github.com/yonghuang18/Frontiers-in-FinTech"

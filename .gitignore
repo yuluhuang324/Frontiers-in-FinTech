@@ -1,0 +1,32 @@
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.synctex(busy)
+*.bcf
+*.run.xml
+*.xdv
+minted.*
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# macOS / editor
+.DS_Store
+*.swp
+.idea/
+.vscode/
+
+# XeLaTeX jobname output (published PDF is Frontiers_in_FinTech.pdf)
+paper/AAA_FinVision_Paper.pdf

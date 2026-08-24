@@ -1,0 +1,27 @@
+name: Build paper
+
+on:
+  push:
+    branches: [main]
+    paths: ['paper/**', '.github/workflows/build-paper.yml']
+  pull_request:
+    paths: ['paper/**']
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: xu-cheng/latex-action@v3
+        with:
+          working_directory: paper
+          root_file: Frontiers_in_FinTech.tex
+          compiler: xelatex
+          args: -interaction=nonstopmode -halt-on-error
+          extra_system_packages: tex-gyre
+      - uses: actions/upload-artifact@v4
+        with:
+          name: Frontiers-in-FinTech
+          path: paper/Frontiers_in_FinTech.pdf
+          if-no-files-found: error

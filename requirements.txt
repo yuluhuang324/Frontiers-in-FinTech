@@ -1,0 +1,14 @@
+# Reference dependency stack for Frontiers in FinTech.
+# NOTE: the `src/` modules are architectural scaffolding (stubs), not a
+# runnable implementation. These pins reflect the intended production stack.
+torch>=2.1
+transformers>=4.40
+Pillow>=10.0
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+# VLM / document understanding
+pdf2image>=1.16
+openpyxl>=3.1
+# portfolio optimization
+cvxpy>=1.4

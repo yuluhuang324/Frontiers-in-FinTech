@@ -1,0 +1,5 @@
+method,mae_pct,rmse_pct,direction_accuracy
+GPT-4 (zero-shot),24.3,31.7,0.614
+FinGPT (single-stage fine-tuning),18.7,24.2,0.671
+DCF Spreadsheet (analyst-input),16.2,21.8,0.703
+FinVision (two-stage),13.1,17.9,0.751

@@ -1,0 +1,6 @@
+document_format,precision,recall,f1,vs_text_only_baseline
+PDF Research Reports,0.931,0.918,0.924,0.123
+Excel Financial Statements,0.963,0.955,0.959,0.081
+Image-Embedded Charts,0.887,0.871,0.879,0.314
+Policy Documents (Scanned),0.842,0.827,0.834,0.187
+Overall,0.906,0.893,0.899,0.176
