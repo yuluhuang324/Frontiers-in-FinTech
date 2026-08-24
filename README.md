@@ -14,6 +14,11 @@
   <img alt="stars" src="https://img.shields.io/github/stars/yonghuang18/Frontiers-in-FinTech?style=social">
 </p>
 
+<p align="center">
+  <video src="assets/Frontiers_in_FinTech_demo.mp4" controls muted autoplay loop playsinline width="86%" preload="metadata"></video><br>
+  <sub>▶ 10-second dynamic system-flow teaser &nbsp;·&nbsp; <a href="assets/Frontiers_in_FinTech_demo.mp4">open the MP4</a></sub>
+</p>
+
 > **Frontiers in FinTech** is a multimodal large language model (MLLM) system that
 > integrates Vision-Language Model (VLM) technology with domain-specific
 > financial reasoning to deliver end-to-end intelligent financial analysis —
@@ -25,11 +30,6 @@ This repository accompanies the manuscript
 *"Frontiers in FinTech: Multimodal Foundation Models for Financial Reporting
 and Decision Science"* and provides the paper source, the headline results,
 and a reference implementation architecture for the three-layer Frontiers in FinTech system.
-
-<p align="center">
-  <video src="assets/Frontiers_in_FinTech_demo.mp4" controls muted width="82%"></video><br>
-  <sub>10-second system-flow teaser (or <a href="assets/Frontiers_in_FinTech_demo.mp4">open the MP4</a>).</sub>
-</p>
 
 ---
 
