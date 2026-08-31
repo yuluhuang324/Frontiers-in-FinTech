@@ -27,11 +27,11 @@ and Decision Science"* and provides the paper source, the headline results,
 and a reference implementation architecture for the three-layer Frontiers in FinTech system.
 
 <p align="center">
-  <a href="https://raw.githubusercontent.com/yuluhuang324/Frontiers-in-FinTech/main/assets/Frontiers_in_FinTech_demo.mp4"><img src="assets/demo_thumb.svg" alt="Frontiers in FinTech 10-second system-flow teaser (click to play)" width="640"></a>
+  <img src="assets/demo.gif" alt="Frontiers in FinTech 10-second system-flow teaser" width="480">
 </p>
 
 <p align="center">
-  <sub>10-second dynamic system-flow teaser &middot; <a href="https://raw.githubusercontent.com/yuluhuang324/Frontiers-in-FinTech/main/assets/Frontiers_in_FinTech_demo.mp4">download MP4</a></sub>
+  <sub>10-second dynamic system-flow teaser (loops inline) &middot; <a href="https://raw.githubusercontent.com/yuluhuang324/Frontiers-in-FinTech/main/assets/Frontiers_in_FinTech_demo.mp4">download MP4</a></sub>
 </p>
 
 ---
