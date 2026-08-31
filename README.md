@@ -9,9 +9,9 @@
   <img alt="Python" src="https://img.shields.io/badge/python-3.10%2B-blue.svg">
   <a href="paper/Frontiers_in_FinTech.pdf"><img alt="paper PDF" src="https://img.shields.io/badge/Paper-PDF-red.svg"></a>
   <img alt="status" src="https://img.shields.io/badge/status-scaffolding-orange.svg">
-  <img alt="last commit" src="https://img.shields.io/github/last-commit/yonghuang18/Frontiers-in-FinTech">
-  <img alt="repo size" src="https://img.shields.io/github/repo-size/yonghuang18/Frontiers-in-FinTech">
-  <img alt="stars" src="https://img.shields.io/github/stars/yonghuang18/Frontiers-in-FinTech?style=social">
+  <img alt="last commit" src="https://img.shields.io/github/last-commit/yuluhuang324/Frontiers-in-FinTech">
+  <img alt="repo size" src="https://img.shields.io/github/repo-size/yuluhuang324/Frontiers-in-FinTech">
+  <img alt="stars" src="https://img.shields.io/github/stars/yuluhuang324/Frontiers-in-FinTech?style=social">
 </p>
 
 > **Frontiers in FinTech** is a multimodal large language model (MLLM) system that
