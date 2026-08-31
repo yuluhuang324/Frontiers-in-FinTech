@@ -27,7 +27,7 @@ and Decision Science"* and provides the paper source, the headline results,
 and a reference implementation architecture for the three-layer Frontiers in FinTech system.
 
 <p align="center">
-  <a href="assets/Frontiers_in_FinTech_demo.mp4"><img src="assets/Frontiers_in_FinTech_demo.mp4" alt="Frontiers in FinTech 10-second system-flow teaser (click to play)" width="640"></a>
+  <a href="assets/Frontiers_in_FinTech_demo.mp4"><img src="assets/demo_thumb.svg" alt="Frontiers in FinTech 10-second system-flow teaser (click to play)" width="640"></a>
 </p>
 
 <p align="center">
