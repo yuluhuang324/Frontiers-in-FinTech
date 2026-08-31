@@ -26,9 +26,7 @@ This repository accompanies the manuscript
 and Decision Science"* and provides the paper source, the headline results,
 and a reference implementation architecture for the three-layer Frontiers in FinTech system.
 
-<p align="center">
-  <img src="assets/Frontiers_in_FinTech_demo.mp4" alt="Frontiers in FinTech 10-second system-flow teaser" width="640">
-</p>
+<video src="assets/Frontiers_in_FinTech_demo.mp4" controls width="640"></video>
 
 <p align="center">
   <sub>10-second dynamic system-flow teaser &middot; <a href="assets/Frontiers_in_FinTech_demo.mp4">download MP4</a></sub>
